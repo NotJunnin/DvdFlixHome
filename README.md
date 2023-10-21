@@ -1,2 +1,2 @@
-https://github.com/NotJunnin/DvdFlixHome
-# DvdFlixHome
+ https://notjunnin.github.io/DvdFlixHome/
+#DvdFlixHome
